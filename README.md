@@ -41,12 +41,6 @@ This project implements an **incremental algorithm** for creating **Delaunay tri
 - `Presentation.pdf` / `Presentation.pptx`: Slide deck summarizing the project.
 - `LICENSE`: MIT License file.
 
-### Prerequisites
-
-- **Programming Language**: C++
-- **Libraries/Dependencies**:
-  - [List of required libraries/tools]
-
 ### Running the Project
 
 To run the project:
