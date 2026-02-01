@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements an **incremental algorithm** for creating **Delaunay triangulations**, a critical operation in computational geometry. The method starts from a base triangle and iteratively adds points while ensuring the triangulation maintains the Delaunay property. The report provides detailed theoretical foundations, algorithmic steps, and implementation strategies. **The code can be found in the path "code/src/empty_class.cpp"**
+This project implements an **incremental algorithm** for creating **Delaunay triangulations**, a critical operation in computational geometry. The method starts from a base triangle and iteratively adds points while ensuring the triangulation maintains the Delaunay property. The report provides detailed theoretical foundations, algorithmic steps, and implementation strategies. **The main code can be found in the path "code/src/empty_class.cpp"**
 
 ## Features
 
